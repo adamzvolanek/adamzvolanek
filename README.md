@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adamzvolanek
-- 👀 I’m interested in expanding my technical knowledge with increasing the use of Python for any development efforts and further integrating best DevOps practices on my at home server. Currently, I lean more towards the 'Ops' comapred to the Dev as I work on my server. 
-- 🌱 I’m currently learning how to code in Python in conjunction with my schooling, AWS Cloud concepts (Solutions Architect Associate Cert.), and continuing to learn and build my at home server with more automation tooling.
+- 👀 I’m interested in expanding my technical knowledge with increasing the use of Python for any development efforts and further integrating best DevOps practices on my at home server. Currently, my preference is towards the 'Ops' side comapred to the Dev. 
+- 🌱 I’m currently learning and applying DevOps practices at my full-time job. Likewise, I have earned the AWS Cloud Practioner certifiaction and continue to apply knowledge learned both at work and at home to become a better Engineer.
 - 📫 How to reach me... still figuring this one out.
 
 <!---
