@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adamzvolanek
-- 👀 I’m interested in expanding my technical knowledge with increasing the use of Python for any development efforts and further integrating best DevOps practices on my at home server. Currently, my preference is towards the 'Ops' side comapred to the Dev. 
-- 🌱 I’m currently learning and applying DevOps practices at my full-time job. Likewise, I have earned the AWS Cloud Practioner certifiaction and continue to apply knowledge learned both at work and at home to become a better Engineer.
+- 👀 I’m interested in expanding my technical knowledge to further integrating best DevOps practices to my home lab. Currently, my preference is towards the 'Ops' side comapred to the Dev, but personal preferences change.
+- 🌱 I have changed full-time jobs, however continuing to apply best DevOps practices in my home lab. I have earned the AWS Cloud Practioner certifiaction and maintain a CompTIA Sec+ certification.
 - 📫 How to reach me... still figuring this one out.
 
 <!---
